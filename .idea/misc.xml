@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/customborder.xml" value="0.353125" />
+        <entry key="app/src/main/res/drawable/customborder2.xml" value="0.353125" />
+        <entry key="app/src/main/res/layout/activity_forgotpassword.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/activity_linear_relative.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/activity_login_data.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/activity_tab_view.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/sign_up.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.33697916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
